@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 2rem;
+}
+.prediction-container {
+    display: none;
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background-color: #e9ecef;
+}
+.price {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #198754;
+}
+.header-container {
+    background-color: #343a40;
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+}
+.form-container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+.loading {
+    display: none;
+    text-align: center;
+    margin-top: 1rem;
+}
+.footer {
+    margin-top: 3rem;
+    text-align: center;
+    color: #6c757d;
+}
